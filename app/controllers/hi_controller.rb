@@ -1,2 +1,0 @@
-class HiController < ApplicationController
-end
