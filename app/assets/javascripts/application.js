@@ -30,4 +30,7 @@
 //= require bootstrap/scrollspy
 //= require bootstrap/tab
 //= require bootstrap/transition
+//= require react
+//= require react_ujs
+//= require components
 //= require_tree .
