@@ -21,6 +21,13 @@ gem 'redis-rails', '~> 5.0.0.pre'
 # Use Sidekiq as a background job processor through Active Job
 gem 'sidekiq', '~> 4.2'
 
+#react UJS
+gem 'react-rails'
+
+#babel-source req
+gem 'babel-source'
+
+
 # Use Clockwork for recurring background tasks without needing cron
 # gem 'clockwork', '~> 2.0'
 
